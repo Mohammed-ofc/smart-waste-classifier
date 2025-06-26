@@ -3,6 +3,7 @@
 An AI-powered image classifier that detects whether a waste image is Hazardous, Organic, or Recyclable using deep learning and a clean Streamlit interface — ideal for smart city and sustainability applications.
 
 **🚀 Features**
+
 Upload a waste image (JPG, PNG)
 EfficientNetB0-based CNN model trained on waste dataset
 Real-time predictions with class-wise probability
@@ -10,12 +11,14 @@ Automatically resized and preprocessed input
 Visual prediction results using Streamlit
 
 **🛠️ Tech Stack**
+
 Python, Streamlit
 TensorFlow, Keras (EfficientNetB0)
 NumPy, PIL (Image Processing)
 Matplotlib (for metrics & evaluation)
 
 **📂 Folder Structure**
+
 smart_waste_classifier/
 ├── app.py
 ├── src/
@@ -31,6 +34,7 @@ smart_waste_classifier/
 └── README.md
 
 **📈 Model Performance**
+
 ✅ Accuracy: 96% on validation set
 ✅ Model: EfficientNetB0 pretrained on ImageNet
 ✅ Evaluation: Confusion Matrix & Classification Report
