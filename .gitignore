@@ -1,7 +1,18 @@
-venv/
+# Byte-compiled / optimized / DLL files
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# macOS
+.DS_Store
+
+# Model files
 *.h5
 *.keras
-.DS_Store
-.idea/
+model_checkpoint.h5
 
+# IDE settings
+.idea/
