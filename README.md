@@ -53,7 +53,8 @@ streamlit run app.py
 🙋‍♂️ Created By
 Mohammed Salman
 📧 mohammed.salman.p.2004@gmail.com
-🔗 https://www.linkedin.com/in/mohammed-salman-p-484a9431b/ | 🌐  https://github.com/Mohammed-ofc/smart-waste-classifier.git
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-salman-p-484a9431b/)
+🌐 [GitHub](https://github.com/Mohammed-ofc)
 
 
 📜 License
