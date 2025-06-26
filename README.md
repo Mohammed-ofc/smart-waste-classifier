@@ -1,4 +1,4 @@
-♻️ Smart Waste Classification System (CNN + EfficientNetB0 + Streamlit)
+**♻️ Smart Waste Classification System (CNN + EfficientNetB0 + Streamlit)**
 
 An AI-powered image classifier that detects whether a waste image is Hazardous, Organic, or Recyclable using deep learning and a clean Streamlit interface — ideal for smart city and sustainability applications.
 
